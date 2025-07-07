@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm an African American computer programmer with working-class roots and a passion for political data. Coming from a steelworker family in Harleyville, SC - a small town in the Lowcountry - whose parents lived through the Civil Rights era, I bring an authentic perspective to analyzing electoral trends, particularly in working-class districts that have experienced significant political realignment.
+I'm an African American computer programmer with working-class roots and a passion for political data. Coming from a steelworker family in Harleyville, SC - a small town in the Lowcountry just north of Colleton County (an Obama-Trump county similar to Luzerne County, PA) - whose parents lived through the Civil Rights era, I bring an authentic perspective to analyzing electoral trends, particularly in working-class districts that have experienced significant political realignment.
 
 Like my father who built with steel, I've inherited the drive to build - just with code instead of metal. My interest in politics emerged early, inspired by my late uncle who served as the only Democrat on our county council until he passed in 2018. The county honored his legacy by naming Davis-Bailey Park after him, located next to the courthouse - a daily reminder of public service and political engagement that shaped my perspective.
 
@@ -42,7 +42,30 @@ The MarginCalculator methodology has been validated against actual election outc
 
 After analyzing presidential electoral trends from 2020-2024, I'm building systematic tools for targeting battleground House seats in the 2026 midterms. Rather than attempting to predict all 435 races, the focus is on the 25-30 truly competitive districts that will determine House control.
 
-**Entrepreneurial Opportunity**: This foundation could scale into a comprehensive political data platform, serving campaigns, media outlets, and research institutions with an authentic, working-class perspective on electoral analysis.
+**Entrepreneurial Opportunity**: This foundation could scale into a comprehensive political data platform, serving campaigns, media outlets, and research institutions with authentic, working-class perspective on electoral analysis.
+
+## Obama-Trump County Analysis & Medium Articles
+
+**Background**: This project emerged from living near Colleton County, SC - an Obama-Trump county that mirrors the famous Luzerne County, PA realignment patterns. The MarginCalculator methodology captures working-class political shifts across regions.
+
+### Featured Articles:
+📝 **Coming Soon**: "From Steel to Code: Obama-Trump Counties Explained"  
+📊 **Coming Soon**: "From Steel to Code: How MarginCalculator Captures Realignment"  
+🗳️ **Coming Soon**: "From Steel to Code: 2026 House Battlegrounds"  
+
+### Cross-Regional Validation:
+- **Economic Anxiety Patterns**: Manufacturing decline → political messaging vulnerability
+- **Demographic Transitions**: Population shifts → electoral realignment  
+- **Cultural Change Responses**: Traditional communities → new political coalitions
+- **Predictive Accuracy**: Algorithm validated against 2024 outcomes
+- **Obama-Trump Tracking**: 20-year analysis of Luzerne County, PA and Colleton County, SC realignment patterns
+
+**2024 MarginCalculator Validation:**
+- **Luzerne County, PA**: Trump +19.1% → "Safe Republican" 
+- **Colleton County, SC**: Trump +18.2% → "Safe Republican"
+- **Cross-Regional Convergence**: Both counties reached similar endpoints despite different starting positions
+
+🔗 **[Follow on Medium for detailed analysis](https://medium.com/@shamardavis)**
 
 ## Skills & Interests
 
