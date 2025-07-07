@@ -65,7 +65,7 @@ After analyzing presidential electoral trends from 2020-2024, I'm building syste
 - **Colleton County, SC**: Trump +18.2% → "Safe Republican"
 - **Cross-Regional Convergence**: Both counties reached similar endpoints despite different starting positions
 
-🔗 **[Follow on Medium for detailed analysis](https://medium.com/@shamardavis)**
+🔗 **[Follow on Medium for detailed analysis](https://medium.com/@shamard415)**
 
 ## Skills & Interests
 
