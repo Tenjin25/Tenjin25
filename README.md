@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm an African American computer programmer with working-class roots and a passion for political data. Coming from a steelworker family whose parents lived through the Civil Rights era, I bring an authentic perspective to analyzing electoral trends, particularly in working-class districts that have experienced significant political realignment.
+I'm an African American computer programmer with working-class roots and a passion for political data. Coming from a steelworker family in Harleyville, SC - a small town in the Lowcountry - whose parents lived through the Civil Rights era, I bring an authentic perspective to analyzing electoral trends, particularly in working-class districts that have experienced significant political realignment.
 
 Like my father who built with steel, I've inherited the drive to build - just with code instead of metal. My interest in politics emerged early, inspired by my late uncle who served as the only Democrat on our county council until he passed in 2018. The county honored his legacy by naming Davis-Bailey Park after him, located next to the courthouse - a daily reminder of public service and political engagement that shaped my perspective.
 
@@ -61,17 +61,3 @@ After analyzing presidential electoral trends from 2020-2024, I'm building syste
 *Building the future of political analysis, one algorithm at a time* 🚀
 
 *"Do you see the code yet?"* 👁️‍🗨️
-
-**Tenjin25/Tenjin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
